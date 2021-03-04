@@ -1,4 +1,15 @@
 {
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "FitnessTracker",
+  "description": "## Description",
+  "version": "1.0.0",
+  "main": "server.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ktcwn/FitnessTracker.git"
+  },
   "dependencies": {
     "express": "^4.17.1",
     "mongoose": "^5.11.18",
