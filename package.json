@@ -5,6 +5,9 @@
   "name": "FitnessTracker",
   "description": "## Description",
   "version": "1.0.0",
+  "engines": {
+    "node": "14.15.1"
+    },
   "main": "server.js",
   "repository": {
     "type": "git",
