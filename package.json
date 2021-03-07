@@ -2,12 +2,12 @@
   "scripts": {
     "start": "node server.js"
   },
-  "name": "FitnessTracker",
+  "name": "fitnesstracker",
   "description": "## Description",
   "version": "1.0.0",
   "engines": {
     "node": "14.15.1"
-    },
+  },
   "main": "server.js",
   "repository": {
     "type": "git",
@@ -18,5 +18,11 @@
     "mongoose": "^5.11.18",
     "morgan": "^1.10.0",
     "node": "^15.10.0"
-  }
+  },
+  "bugs": {
+    "url": "https://github.com/ktcwn/FitnessTracker/issues"
+  },
+  "homepage": "https://github.com/ktcwn/FitnessTracker#readme",
+  "author": "",
+  "license": "ISC"
 }
