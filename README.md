@@ -9,7 +9,7 @@
 ## About
 
 This applications allows users to create, edit and delete notes to the server by utilizing Node and Express.js.
-![Fitness Tracker Demo](./public/img/notetaker.gif)
+![Fitness Tracker Demo](./fitnessdemo.gif)
 
 ## Installation
 
