@@ -8,7 +8,8 @@
 
 ## About
 
-This applications allows users to create, edit and delete notes to the server by utilizing Node and Express.js.
+> This applications allows users to enter in workouts (both resistance and cardio) and upload the exercises to the dashboard utilizing Node and Express.js.
+
 ![Fitness Tracker Demo](./fitnessdemo.gif)
 
 ## Installation
