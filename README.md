@@ -2,7 +2,7 @@
 
 ## Description
 
-### [Deployed to Heroku](https://)
+### [Deployed to Heroku](https://fitness-tracker-0304.herokuapp.com/)
 
 ### [Repository on Github](https://github.com/ktcwn/FitnessTracker)
 
