@@ -3,7 +3,7 @@ const mongoose = require("mongoose");
 const morgan = require("morgan");
 
 const PORT = process.env.PORT || 3000
-const db = require("./models");
+const db = require("./Develop/models");
 const app = express();
 
 app.use(express.urlencoded({ extended: true }));
@@ -17,8 +17,8 @@ mongoose.connect(process.env.MONGODB_URI || "mongodb://localhost/workoutdb", {
 });
 
 // routes
-app.use(require("./routes/api-routes.js"));
-app.use(require("./routes/html-routes.js"));
+app.use(require("./Develop/routes/api-routes.js"));
+app.use(require("./Develop/routes/html-routes.js"));
 
 app.listen(PORT, () => {
     console.log(`App running on port ${PORT}!`);
