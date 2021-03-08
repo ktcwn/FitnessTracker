@@ -33,8 +33,8 @@ This applications allows users to create, edit and delete notes to the server by
 
 ## Test Commands
 
-To initialize the app, open the Note Taker application in a new terminal, enter `node server.js` and navigate to local host address defined in the command shell.
-
+To initialize the app, open the Fitness Tracker application in a new terminal, enter `node server.js` and navigate to local host address defined in the command shell.
+example: `http://localhost:3000`
 ## Contributions
 
 - Starter Code
