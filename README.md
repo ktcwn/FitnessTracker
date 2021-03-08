@@ -2,13 +2,14 @@
 
 ## Description
 
-### [Deployed to Heroku](https://)
+### [Deployed to Heroku](https://fitness-tracker-0304.herokuapp.com/)
 
 ### [Repository on Github](https://github.com/ktcwn/FitnessTracker)
 
 ## About
 
-This applications allows users to create, edit and delete notes to the server by utilizing Node and Express.js.
+> This applications allows users to enter in workouts (both resistance and cardio) and upload the exercises to the dashboard utilizing Node and Express.js.
+
 ![Fitness Tracker Demo](./fitnessdemo.gif)
 
 ## Installation
@@ -17,24 +18,24 @@ This applications allows users to create, edit and delete notes to the server by
 
 ### [Node](https://nodejs.org/en/)
 
-> Install using "npm i node"
+> Install using `npm i node`
 
 ### [Express](https://expressjs.com/)
 
-> Install using "npm i express"
+> Install using `npm i express`
 
 ### [Mongoose](https://www.npmjs.com/package/uuidv4)
 
-> Install using "npm i mongoose"
+> Install using `npm i mongoose`
 
 ### [Morgan](https://www.npmjs.com/package/uuidv4)
 
-> Install using "npm i morgan"
+> Install using `npm i morgan`
 
 ## Test Commands
 
-To initialize the app, open the Note Taker application in a new terminal, enter `node server.js` and navigate to local host address defined in the command shell.
-
+- To initialize the app, open the Fitness Tracker application in a new terminal, enter `node server.js` and navigate to local host address defined in the command shell.
+- Example: `http://localhost:3000`
 ## Contributions
 
 - Starter Code
