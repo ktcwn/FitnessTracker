@@ -15,11 +15,9 @@
   },
   "dependencies": {
     "express": "^4.17.1",
-    "heroku": "^7.50.0",
-    "manifest": "^0.1.4",
-    "compression": "^1.7.4",
-    "mongoose": "^5.11.19",
-    "morgan": "^1.10.0"
+    "mongoose": "^5.11.18",
+    "morgan": "^1.10.0",
+    "node": "^15.10.0"
   },
   "bugs": {
     "url": "https://github.com/ktcwn/FitnessTracker/issues"
